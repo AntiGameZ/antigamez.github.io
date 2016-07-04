@@ -10,12 +10,148 @@
     <atom:link href="http://www.linrk.com/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>show me your money</title>
+      <title>交学费，国际转账等与钱相关的各种问题</title>
       <link>http://www.linrk.com/post/show-me-your-money/</link>
       <pubDate>Mon, 04 Jul 2016 16:34:08 +0800</pubDate>
       
       <guid>http://www.linrk.com/post/show-me-your-money/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;最近汇率真是飙疯了，不管你是换美元，还是不换美元，学费总是要交的哦～ 开一篇新的，谈一谈钱相关的问题。请先仔细把全文看完，如果有疑问的话，欢迎直接留言或者微信上找我。&lt;/p&gt;
+
+&lt;p&gt;本篇中，我会着重讨论以下四个问题：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;如何换美元；&lt;/li&gt;
+&lt;li&gt;将美元转账到美国（特指我们 USC 在的 Los Angeles 啦）；&lt;/li&gt;
+&lt;li&gt;如何拥有一个美国的银行账户；&lt;/li&gt;
+&lt;li&gt;交学费的策略；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;0-如何换美元&#34;&gt;0. 如何换美元&lt;/h2&gt;
+
+&lt;p&gt;未来的汇率会是什么走势，谁也无法准确预测，我只谈在汇率一定的前提下，怎么换钱最划算。&lt;/p&gt;
+
+&lt;p&gt;首先要知道的是，汇率，尤其是我们所关心的美元兑人民币汇率，是有好几个标准的，USDCNY-在岸美元兑人民币汇率，USDCNH－离岸美元兑人民币汇率，不同银行美元兑人民币牌价等，这些都是不一样的。篇幅原因，不展开说，有兴趣的朋友可以自行知乎搜索。&lt;/p&gt;
+
+&lt;p&gt;对普通人，只需关心银行牌价中&lt;strong&gt;&amp;ldquo;现汇卖出价&amp;rdquo;&lt;/strong&gt;部分（我们换美元，是向银行&amp;rdquo;买入&amp;rdquo;，银行是&amp;rdquo;卖出&amp;rdquo;）即可。不同银行的牌价可以在 &lt;a href=&#34;http://forex.hexun.com/rmbhl/&#34;&gt;和讯外汇比价中心&lt;/a&gt; 查询，也可以下载 &lt;a href=&#34;https://itunes.apple.com/cn/app/he-xun-wai-hui/id626691795?mt=8&#34;&gt;和讯外汇APP for iOS&lt;/a&gt; 在手机上查询。&lt;/p&gt;
+
+&lt;p&gt;在这里做个计算：&lt;/p&gt;
+
+&lt;p&gt;当前我看到的美元兑人民币牌价，现汇卖出价最低（最划算的）是交通银行 667.64，即我们要花费 667.64 人民币换取 100 美元。最高的则是（最不划算）的是招商银行 668.03，比交通银行高了 0.39 人民币每 100 美元。也就是说，如果今天你要换 10 万美元（一个人每年合法换汇，也只有 5 万美元），选择交通银行比招商银行，可以节省 390 人民币。怎么 10 万美元才差这么点啊？嗯，确实如此，所以不用花太多时间去琢磨到哪个银行换外汇了，继续往下看吧。&lt;/p&gt;
+
+&lt;h2 id=&#34;1-将美元转账到美国的最优方式&#34;&gt;1. 将美元转账到美国的最优方式&lt;/h2&gt;
+
+&lt;p&gt;将美元从中国转账到美国，方法太多，手续费也千奇百怪。一般来说，从国内银行汇一笔美元到美国的银行，会收取：国内银行电报费，国内银行电汇手续费，中间行手续费，汇入银行手续费这几方面的费用，而中间行手续费可能会收取不止一次哦。&lt;/p&gt;
+
+&lt;p&gt;在进一步讨论问题之前，先说结论：最划算，最普适的汇款方式是&lt;strong&gt;工行手机网银汇款&lt;/strong&gt;，如果你是工行五星或以上客户，不用手机网银也可以。先看一下工行的费率：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;手续费按万分之八收,最低 40 元/笔,最高 208 元/笔；&lt;/li&gt;
+&lt;li&gt;电报费 100 元，但手机网银汇款不收电报费，五星或以上客户也不收电报费；&lt;/li&gt;
+&lt;li&gt;足额到账费 25 美元。可选费用，针对汇中间行要收2次钱，汇入费又再收一笔的坑爹银行，可以花这25美元等于是买个保险。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;那么来计算一下两笔典型的工行美元跨境汇款：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;18022 美元，汇往 USC Credit Union（USC 信用社，学校自己的小银行，如何开户下面会说），手续费是万分之八，综合当天美元汇率，最终收取人民币 95.47 元，USC CU 每年头 2 笔国际汇款免收汇入费，但是中间行要收取 15 美元手续费。总共是 95.47 人民币 + 15 美元合计大约 194.8 人民币的手续费；&lt;/li&gt;
+&lt;li&gt;2800 美元，汇往洛杉矶当地的某个 BoA（Bank of America）支行，手续费依旧是万分之八，据说 BoA 要收汇入费 30 刀，于是我选择在工行这里加 25 美元全额到账。手续费依旧是万分之八，根据当天汇率，应该是 15 元人民币的手续费，但是因为手续费最低是 40 元人民币起，所以我得给 40 人民币 ＋ 25 美元 ＝ 大概 206 人民币；&lt;/li&gt;
+&lt;li&gt;工行每一笔汇款，最多只能汇出 50000 美元，按照手续费万分之八计算，50000 美元的汇款手续费大概是人民币 268，但是最高只收取 208 元。而 208 元人民币的手续费大概对应汇款 38934 美元（按照我现在的汇率）元所需要的手续费。手续费下限的 40 元，则对应约 7487 美元。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上面三种情况下，到账时间是一样的，国内工作日下午3点前汇出，24小时内美国的银行就能收到。如果是周五下午3点后才汇出，那则有可能要到中国时间周二的晚上，美国那边才能收到。请大家注意自己的汇款时间。&lt;/p&gt;
+
+&lt;p&gt;从上面三个例子可以知道，从工行这边汇出美元，在不考虑全额到账服务费 25 美元的情况下，最多只收取 208 元人民币的手续费，最少要收取 40 元人民币的手续费。是否加 25 美元的全额到账服务费，则要看你对对方银行的了解，如果是汇往 USCCU，我建议你不要加。&lt;/p&gt;
+
+&lt;p&gt;那么在对比一下&lt;strong&gt;支付宝的美元汇款&lt;/strong&gt;。这个曾经的神器现在也不神了：境内手续费 50 元（中间行费用，汇入银行的费用都是不包括在内的），每笔收取，但是一笔最多不能超过 3 万元人民币，一天最多 2 笔。而 50 元在工行已经可以汇出大约 62500 元人民币等值的美元了。此外，支付宝汇款只支持填写 SWIFT CODE，而不支持填写 ABA 号。对于某些银行来说，可能会导致汇款到达缓慢的问题（下面会说，USCCU 就是这样）。&lt;/p&gt;
+
+&lt;p&gt;至于网上盛传的建设银行可以免手续费直接汇到 BoA 的方式，其实在 2013 年 5 月活动就结束了。而工行基本上哪里都有，几乎可以说没有门槛。&lt;/p&gt;
+
+&lt;p&gt;如果你已经在某个银行换好了美元，想转账到工行的话，请注意：境内外汇转账只能转到同名账户。即如果你在建行用你爸爸的名字开了个户，换的美元都存在这个账户下，那么也只能让你爸再去工行开个户，把建行的钱转过去。&lt;/p&gt;
+
+&lt;h2 id=&#34;2-如何拥有一个美国银行的账户&#34;&gt;2. 如何拥有一个美国银行的账户&lt;/h2&gt;
+
+&lt;p&gt;这部分更多的讨论的是，如何&lt;strong&gt;在你到达美国之前&lt;/strong&gt;，就拥有一个美国账户。毕竟等你到了美国之后，Citi，BoA，Chase 各大银行洛杉矶都有，随便开就好。&lt;/p&gt;
+
+&lt;p&gt;想在抵达美国前，就把户开好，并把美元提前汇过去，则只能求助于学校的信用社——USC Credit Union，也就是上文说的 USCCU 了。&lt;/p&gt;
+
+&lt;p&gt;首先和大家打个预防针，这家信用社确实是如假包换学校开设的银行，但是他家经常会犯一些小错误，不过处理问题的态度又很好，真是不知道怎么评价了。&lt;/p&gt;
+
+&lt;p&gt;但凡 USC 的学生，包括已经录取的学生，都可以凭自己的 USC-ID 去 &lt;a href=&#34;https://www.usccreditunion.org&#34;&gt;USC Credit Union 的官网&lt;/a&gt; 点击页面上的&lt;a href=&#34;https://www.usccreditunion.org&#34;&gt;Join Now&lt;/a&gt;注册账号。&lt;/p&gt;
+
+&lt;p&gt;注册本身没有什么好说的，只是请注意几点：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;第一步（Eligibility），Eligibility Type 选择 International Students，Promotional Code 填写 BONUS50，满足特定条件的情况下，可以拿 50 刀返利和一本免费的支票。条件如下：
+&amp;gt; In order to receive the deposit, you have to either have a direct deposit of $250 or more within the first 60 days of the account being opened. Or, use your debit card to make ten purchases for two consecutive months within the first 60 days of the account being opened and sign up to receive statements online.&lt;/li&gt;
+&lt;li&gt;需要用到地址的地方，请填写 USC Credit Union 自己的地址：
+&amp;gt; Street : 3720 SOUTH FLOWER STREET
+&amp;gt; Suite : CUB 1ST FLOOR
+&amp;gt; City : LOS ANGELES
+&amp;gt; State : CA
+&amp;gt; Zipcode : 90089&lt;/li&gt;
+&lt;li&gt;遇到需要填电话的，全部填 0 就行了；&lt;/li&gt;
+&lt;li&gt;网上注册完成以后，请立即发邮件到 membership@usccreditunion.org 向其询问 Welcome 邮件和账号信息。只有当你获得了自己的 Welcome 邮件后，才会知道自己的 USCCU 网银登录账号，账号才算是正式开通。&lt;/li&gt;
+&lt;li&gt;为了大家的便利，我将 USCCU 的汇款基本信息贴在这里：
+&amp;gt; Institution Name: USC Credit Union
+&amp;gt; Institution Location: Los Angeles, CA
+&amp;gt; ABA/Routing Number: 322079557 （这是每个人一样的）
+&amp;gt; Final Credit: Your Name: 你的名字
+&amp;gt; Account Number: 你的账号&lt;/li&gt;
+&lt;li&gt;上面的汇款信息里，是没有一般大家说的 Swift Code 的，通过 ABA 或者 Routing Number 来识别，这是正常也是我推荐的，工行网银也支持（但是支付宝不支持）。USC Credit Union 也提供了通过 Swift Code 汇款的方式：
+&amp;gt; Intermediary/Correspondent Bank: Union Bank, N. A.
+&amp;gt; Intermediary/Correspondent Bank Location: Los Angeles, CA
+&amp;gt; Intermediary/Correspondent SWIFT Code: BOFCUS33MPK
+&amp;gt; Beneficiary&amp;rsquo;s Bank Name: USC Credit Union
+&amp;gt; Beneficiary&amp;rsquo;s Bank Account Number: 2761014360
+&amp;gt; Beneficiary&amp;rsquo;s Account Name: 你的名字
+&amp;gt; Beneficiary&amp;rsquo;s Account Number: 你的账号&lt;/li&gt;
+&lt;li&gt;通过 Swfit Code，就需要明确指定中间行（因为 USCCU 自己没有 SWIFT CODE），这样的情况会带来很多不必要的麻烦，也会增加汇款失败的可能，所以还是建议大家用 ABA/Routing Number 进行汇款。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;至于为什么一开始说 USCCU 不知道怎么评价，就给大家说说我的经历吧：&lt;/p&gt;
+
+&lt;p&gt;4 月份，我开了 USCCU 的户，随机打了 2800 刀过去，是通过工行汇的，并没有选择 25 美元全额到账。但是非常诡异的，USCCU 那边全额到账了，中间行没有收我的费用！
+但是，过了 3 天，我的账号就给锁了，无法登陆。打电话过去，也没刁难我，很快就给我解锁了。
+6 月份，我汇了 18022 刀过去，也没有选择 25 美元全额到账，结果第三天钱退回到我工行卡里了，还少了 15 刀。通过 USCCU 网银内置的 Message 功能我问了 USCCU 的人，他们说我帐号有个 Warning 没有解除，是他们的失误，让我重新汇一次，之前错误造成的经济损失，他们一力承担。
+于是我就又一次汇了 18022 刀过去，24小时之内就到了，到账金额也确实是扣了 15 刀的，并且还扣了我一笔入账手续费（因为这时候我实际上已经是“第三次”国际汇款到 USCCU 了，USCCU 只免除每年 2 次的国际汇款入账手续费）。
+我将之前汇款的回单发给了 USCCU，他们将上一次汇款发生的所有费用，以及这次多扣的 10 美元入账手续费，一并还给我了。&lt;/p&gt;
+
+&lt;p&gt;大家可以自己权衡一下是否要开 USCCU 的帐号，如果时间不急，想到达美国的时候从容一些，我建议不妨一试。&lt;/p&gt;
+
+&lt;h2 id=&#34;3-交学费的策略&#34;&gt;3. 交学费的策略&lt;/h2&gt;
+
+&lt;p&gt;USC 的学费，基本上来说是按照学期，以及你这个学期选了多少个学分的课来交的，还要交一些杂费和保险费之类。比如 Computer Science 的学生，第一个学期选了 2 门 4 学分，1 门 1 学分的课共计 9 学分。Viterbi 学院 1 个学分 1845 美元，那么就交 1845 美元再加上一些其他费用就行了。&lt;/p&gt;
+
+&lt;p&gt;费用可以有很多方式缴付，具体请访问 &lt;a href=&#34;https://sfs.usc.edu&#34;&gt;Student Financial Services&lt;/a&gt; 网站 &lt;a href=&#34;https://sfs.usc.edu/payment/&#34;&gt;Pay Options&lt;/a&gt; 目录查询。常见的方式也就 3 种，通过信用卡，电汇，储蓄账户。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;信用卡。支持国内信用卡，但是不支持银联。有 VISA，MASTER 标的信用卡都可以，极少数如招商银行金葵花双币借记卡（带VISA标识的），也可以付。并且不收取任何手续费（大部分的学校都是收的哦）。在 Slyar 的博文 &lt;a href=&#34;https://www.slyar.com/blog/usc-ms-cs-dclearance-courses.html&#34;&gt;USC MS CS申请D-clearance选课及交学费过程&lt;/a&gt; 中提到，学费最多可以拆成 3 次交，但是我在 USC 相关网站上没有找到限制多少次交的说明，只能等自己选了课以后，测试后补上了。
+&amp;gt; 考虑到大部分同学都是应届毕业生，可能都没有办理过国内信用卡。如果希望用国内信用卡缴学费的话，可办理广发留学生信用卡，中信全币通信用卡，中国银行卓隽或其他类型全币种信用卡等信用卡。因为给学生的额度不太高，交学费时候需要你往信用卡里存钱才可够刷，同时建议交学费前先致电银行报备一下，防止交易被银行拒绝。也可以让已经有信用卡的父母下挂一张副卡供你使用。如果单纯只是网上使用的话，直接用父母的卡也是可以的。但是，&lt;strong&gt;请务必谨记，线下使用信用卡时，你如果用的不是本人的卡，会有违法的风险&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;电汇和银行汇款一样，学校的 USCe.Pay 系统里有收款账号，登陆 &lt;a href=&#34;https://my.usc.edu/portal/guest.php&#34;&gt;MyUSC&lt;/a&gt; 查看即可。&lt;/li&gt;
+&lt;li&gt;储蓄账户支付。指在 USCCU 或者其他美国银行开具了储蓄账户，钱存在账户里。在 USCe.Pay 里按照指示设置好账户和支付系统的关联，即可支付学费。详细流程抵达美国后我会补上。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;合理的缴费策略是什么？&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;稳妥型的：抵达美国以后，开一个 BoA / Citi / USCCU 的账号，国内将钱电汇至账号，绑定 USCe.Pay 储蓄账户，缴付学费。&lt;/li&gt;
+&lt;li&gt;信用卡薅毛型的：各大国内银行都有境外消费返利的活动，美国本地各银行也有返利信用卡。缴付学费是合理分割每张卡交付学费的金额，最大化的获得 80 - 300 美元不等的返利。&lt;/li&gt;
+&lt;li&gt;进阶型的：
+** 进阶型1: Payment Plan。缴付 50 美元手续费，学费每个月扣款而不是一次将一个学期的钱都缴清。详细说明和流程可参考: &lt;a href=&#34;http://sfs.usc.edu/payment/plan/&#34;&gt;http://sfs.usc.edu/payment/plan/&lt;/a&gt;
+** 进阶型2: Prepayment。一次性缴付你在学校所有的学费。考虑到 USC 学费逐年上涨（是不是现在还能搜到网上说一个学分 14xx 刀的帖子？），可以干脆一口气全部交掉以防止未来学分价格上涨。详细说明和流程可以参考：&lt;a href=&#34;http://sfs.usc.edu/payment/plan/&#34;&gt;http://sfs.usc.edu/payment/plan/&lt;/a&gt;
+** 学校提供了 &lt;a href=&#34;http://orientation.usc.edu/wp-content/uploads/2016/05/PayingForUSC_chinese.pdf&#34;&gt;中文版的缴费说明&lt;/a&gt;，我看了下内容应该主要是针对本科生的，但是大体上对研究生也适用，值得仔细阅读。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-amazon-prime-student-membership&#34;&gt;4. Amazon Prime Student Membership&lt;/h2&gt;
+
+&lt;p&gt;很多人一到洛杉矶就要开启买买买模式了，美国不比咱天朝，什么都包邮。Amazon Prime Student Membership 提供 6 个月免费的 2 日送达服务。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amazon.com/gp/student/signup/info?ie=UTF8&amp;amp;refcust=C3RPC7STEHMM2TEJMSPPJCJQIM&amp;amp;ref_type=generic&amp;amp;ref=sm_st_ref_g_gen&#34;&gt;点击此链接注册&lt;/a&gt;&lt;/strong&gt; 你我都可以得到 10 美元。&lt;/p&gt;
+
+&lt;p&gt;特别说明，这项服务本来收费 98 美元／年，学生折扣 50％，为 49 美元／年。&lt;/p&gt;
+</description>
     </item>
     
     <item>
