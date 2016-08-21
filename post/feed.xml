@@ -6,8 +6,62 @@
     <description>Recent content in Posts on AntiGameZ&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 04 Jul 2016 16:34:08 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Aug 2016 22:48:49 -0700</lastBuildDate>
     <atom:link href="http://www.linrk.com/post/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>快快找到校内工作的方法</title>
+      <link>http://www.linrk.com/post/find-on-campus-job/</link>
+      <pubDate>Sat, 20 Aug 2016 22:48:49 -0700</pubDate>
+      
+      <guid>http://www.linrk.com/post/find-on-campus-job/</guid>
+      <description>
+
+&lt;p&gt;之前为了早点拿到 SSN，一直在琢磨怎么一到校就能尽快找到一份靠谱的校内工作。上周投了2个职位，也参加了几场笔试、面试，有挂的有过的。把自己的经验总结一下。&lt;/p&gt;
+
+&lt;h2 id=&#34;了解工作信息的途径&#34;&gt;了解工作信息的途径&lt;/h2&gt;
+
+&lt;p&gt;对于 Computer Science 专业的学生来说，请务必订阅系里面的&lt;a href=&#34;https://www.cs.usc.edu/cs-job-announcements&#34;&gt;Job Announcements 邮件列表&lt;/a&gt;，这个列表除了会发布校内实习信息，也会发布 Internship，全职工作的信息，可谓一直都很有用（最后我的校内工作也是在这个邮件列表里找到的）。&lt;/p&gt;
+
+&lt;p&gt;此外，最普遍最主要获得工作信息的途径，是学校的 connectSC 网站，你可以在&lt;a href=&#34;https://my.usc.edu&#34;&gt;https://my.usc.edu&lt;/a&gt;里左侧的那一大堆图标里，找到 connectSC 的链接（如&lt;strong&gt;图1&lt;/strong&gt;）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/connectSC-001.png&#34; alt=&#34;图1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;注意:&lt;/strong&gt; 如果你还没有注册课程的话（2016 Fall 的大家应该都注册过了），是进不去 connectSC 网站的。如果想提早了解这方面信息，求助一下你们的学长学姐，或者早点到校选课吧。&lt;/p&gt;
+
+&lt;p&gt;第一次进入 connectSC 的时候，或者进入某些选项菜单的时候，需要填写自己的个人信息才能继续，请根据实际情况填写即可。不少人问我 GPA，Work Authorization，Visa Status 这三项如何填写，请参照&lt;strong&gt;图2&lt;/strong&gt;填写或选择。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/connectSC-006.png&#34; alt=&#34;图2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;选择左边菜单&lt;strong&gt;Jobs and Internships&lt;/strong&gt;下的&lt;strong&gt;connectSC Jobs and Internships&lt;/strong&gt;（如&lt;strong&gt;图3&lt;/strong&gt;），进入工作搜索界面。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/connectSC-002.png&#34; alt=&#34;图3&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Slyar 在&lt;a href=&#34;https://www.slyar.com/blog/usc-on-campus-job.html&#34;&gt;&amp;ldquo;关于USC校内工作on-campus job的申请(CS举例)&amp;rdquo;&lt;/a&gt; 中提到过，国际学生，只可以申请 On-Campus Non-work-study 的工作职位。所以请在&amp;rdquo;Advanced Search&amp;rdquo;点开的弹出窗口里，筛选一下仅仅显示 On-Campus Non-work-study 的工作职位（如&lt;strong&gt;图4&lt;/strong&gt;，&lt;strong&gt;图5&lt;/strong&gt;）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/connectSC-003.png&#34; alt=&#34;图4&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/connectSC-004.png&#34; alt=&#34;图5(Search 按钮右边的 More Filters 点开还有更多筛选条件可供选择)&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;筛选完搜索结果后，还可以将搜索结果保存，并设置提醒。请点击页面上的 &amp;ldquo;Saved Searches&amp;rdquo;，在弹出窗口中，自己的搜索结果起个名字，设置一下订阅发送的频率，是否只显示新的工作等，Save即可（如&lt;strong&gt;图6&lt;/strong&gt;）。基本上工作日的晚上都会有新工作的总结邮件发到你的 USC 邮箱，更省事儿一些。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/connectSC-005.png&#34; alt=&#34;图6&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;找校内工作的建议&#34;&gt;找校内工作的建议&lt;/h2&gt;
+
+&lt;p&gt;各类校内工作其实很多，connectSC 也并不能全部包括。对于想找技术方面工作的同学，只要在 Google 上以 USC + Web Developer 或 Web Development 等关键词进行搜索，一般都能找到不少在学校各个部门从事开发工作的 Staff，直接通过邮箱联系他们，附上自己的简历推荐一下自己，都会有机会的（据我了解到的信息，USC 做开发的全职员工虽然不少但主要开发工作除了靠外包，就是靠学生了，机会不少）。&lt;/p&gt;
+
+&lt;p&gt;另外，建议注册好 LinkedIn，认真填写自己的各类信息。LinkedIn 也可以通过站内，或在谷歌上搜索 USC + Student Worker 关键字，找到很多目前或者之前有校内工作经历的同学。直接通过 LinkedIn 站内信和他们联系，问问情况，一般都会有人回的（在我找工作的过程中，也确实起到了积极作用）。顺路放一下自己的 LinkedIn 地址：&lt;a href=&#34;https://cn.linkedin.com/in/sijiec&#34;&gt;https://cn.linkedin.com/in/sijiec&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;广告时间&#34;&gt;广告时间&lt;/h2&gt;
+
+&lt;p&gt;这会儿要是谁还没有注册 Uber 的话，就填一下我的推荐码（&lt;strong&gt;8zmk8b38ue&lt;/strong&gt;）吧。请注意：只有新账户（没有坐过车）填写它才有用。你我都会得到一次不超过 20 美元的免费乘车奖励。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/uber-001.png&#34; alt=&#34;在 Uber 界面中选择添加优惠码&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.linrk.com/img/uber-002.png&#34; alt=&#34;输入8zmk8b38ue&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>交学费，国际转账等与钱相关的各种问题</title>
@@ -16,6 +70,10 @@
       
       <guid>http://www.linrk.com/post/show-me-your-money/</guid>
       <description>
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt; &lt;span class=&#34;nx&#34;&gt;A&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;bunch&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;code&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;here&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
 
 &lt;p&gt;最近汇率真是飙疯了，不管你是换美元，还是不换美元，学费总是要交的哦～ 开一篇新的，谈一谈钱相关的问题。请先仔细把全文看完，如果有疑问的话，欢迎直接留言或者微信上找我。&lt;/p&gt;
 
@@ -84,20 +142,16 @@
 
 &lt;ul&gt;
 &lt;li&gt;第一步（Eligibility），Eligibility Type 选择 International Students，Promotional Code 填写 BONUS50，满足特定条件的情况下，可以拿 50 刀返利和一本免费的支票。条件如下：
-&amp;gt; In order to receive the deposit, you have to either have a direct deposit of $250 or more within the first 60 days of the account being opened. Or, use your debit card to make ten purchases for two consecutive months within the first 60 days of the account being opened and sign up to receive statements online.&lt;/li&gt;
+&amp;gt; &amp;gt; In order to receive the deposit, you have to either have a direct deposit of $250 or more within the first 60 days of the account being opened. Or, use your debit card to make ten purchases for two consecutive months within the first 60 days of the account being opened and sign up to receive statements online.&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;需要用到地址的地方，请填写 USC Credit Union 自己的地址：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Street : 3720 SOUTH FLOWER STREET&lt;/p&gt;
-
-&lt;p&gt;Suite : CUB 1ST FLOOR&lt;/p&gt;
-
-&lt;p&gt;City : LOS ANGELES&lt;/p&gt;
-
-&lt;p&gt;State : CA&lt;/p&gt;
-
-&lt;p&gt;Zipcode : 90089&lt;/p&gt;
+&lt;p&gt;Street : 3720 SOUTH FLOWER STREET
+Suite : CUB 1ST FLOOR
+City : LOS ANGELES
+State : CA
+Zipcode : 90089&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;遇到需要填电话的，全部填 0 就行了；&lt;/p&gt;&lt;/li&gt;
@@ -107,33 +161,23 @@
 &lt;li&gt;&lt;p&gt;为了大家的便利，我将 USCCU 的汇款基本信息贴在这里：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Institution Name: USC Credit Union&lt;/p&gt;
-
-&lt;p&gt;Institution Location: Los Angeles, CA&lt;/p&gt;
-
-&lt;p&gt;ABA/Routing Number: 322079557 （这是每个人一样的）&lt;/p&gt;
-
-&lt;p&gt;Final Credit: Your Name: 你的名字&lt;/p&gt;
-
-&lt;p&gt;Account Number: 你的账号&lt;/p&gt;
+&lt;p&gt;Institution Name: USC Credit Union
+Institution Location: Los Angeles, CA
+ABA/Routing Number: 322079557 （这是每个人一样的）
+Final Credit: Your Name: 你的名字
+Account Number: 你的账号&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;上面的汇款信息里，是没有一般大家说的 Swift Code 的，通过 ABA 或者 Routing Number 来识别，这是正常也是我推荐的，工行网银也支持（但是支付宝不支持）。USC Credit Union 也提供了通过 Swift Code 汇款的方式：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Intermediary/Correspondent Bank: Union Bank, N. A.&lt;/p&gt;
-
-&lt;p&gt;Intermediary/Correspondent Bank Location: Los Angeles, CA&lt;/p&gt;
-
-&lt;p&gt;Intermediary/Correspondent SWIFT Code: BOFCUS33MPK&lt;/p&gt;
-
-&lt;p&gt;Beneficiary&amp;rsquo;s Bank Name: USC Credit Union&lt;/p&gt;
-
-&lt;p&gt;Beneficiary&amp;rsquo;s Bank Account Number: 2761014360&lt;/p&gt;
-
-&lt;p&gt;Beneficiary&amp;rsquo;s Account Name: 你的名字&lt;/p&gt;
-
-&lt;p&gt;Beneficiary&amp;rsquo;s Account Number: 你的账号&lt;/p&gt;
+&lt;p&gt;Intermediary/Correspondent Bank: Union Bank, N. A.
+Intermediary/Correspondent Bank Location: Los Angeles, CA
+Intermediary/Correspondent SWIFT Code: BOFCUS33MPK
+Beneficiary&amp;rsquo;s Bank Name: USC Credit Union
+Beneficiary&amp;rsquo;s Bank Account Number: 2761014360
+Beneficiary&amp;rsquo;s Account Name: 你的名字
+Beneficiary&amp;rsquo;s Account Number: 你的账号&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;通过 Swfit Code，就需要明确指定中间行（因为 USCCU 自己没有 SWIFT CODE），这样的情况会带来很多不必要的麻烦，也会增加汇款失败的可能，所以还是建议大家用 ABA/Routing Number 进行汇款。&lt;/p&gt;&lt;/li&gt;
@@ -154,7 +198,7 @@
 
 &lt;h2 id=&#34;3-交学费的策略&#34;&gt;3. 交学费的策略&lt;/h2&gt;
 
-&lt;p&gt;USC 的学费，基本上来说是按照学期，以及你这个学期选了多少个学分的课来交的，还要交一些杂费和保险费之类。比如 Computer Science 的学生，第一个学期选了 2 门 4 学分，1 门 1 学分的课共计 9 学分。Viterbi 学院 1 个学分 1845 美元，那么就交 1845 美元再加上一些其他费用就行了。&lt;/p&gt;
+&lt;p&gt;USC 的学费，基本上来说是按照学期，以及你这个学期选了多少个学分的课来交的，还要交一些杂费和保险费之类。比如 Computer Science 的学生，第一个学期选了 2 门 4 学分，1 门 1 学分的课共计 9 学分。Viterbi 学院 1 个学分 1845 美元，那么就交 1845 ＊ 9 = 16605 美元再加上一些其他费用就行了。&lt;/p&gt;
 
 &lt;p&gt;费用可以有很多方式缴付，具体请访问 &lt;a href=&#34;https://sfs.usc.edu&#34;&gt;Student Financial Services&lt;/a&gt; 网站 &lt;a href=&#34;https://sfs.usc.edu/payment/&#34;&gt;Pay Options&lt;/a&gt; 目录查询。常见的方式也就 3 种，通过信用卡，电汇，储蓄账户。&lt;/p&gt;
 
@@ -163,7 +207,9 @@
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;考虑到大部分同学都是应届毕业生，可能都没有办理过国内信用卡。如果希望用国内信用卡缴学费的话，可办理广发留学生信用卡，中信全币通信用卡，中国银行卓隽或其他类型全币种信用卡等信用卡。因为给学生的额度不太高，交学费时候需要你往信用卡里存钱才可够刷，同时建议交学费前先致电银行报备一下，防止交易被银行拒绝。也可以让已经有信用卡的父母下挂一张副卡供你使用。如果单纯只是网上使用的话，直接用父母的卡也是可以的。但是，&lt;strong&gt;请务必谨记，线下使用信用卡时，你如果用的不是本人的卡，会有违法的风险&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -181,11 +227,9 @@
 &lt;li&gt;&lt;p&gt;进阶型的：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;进阶型1: Payment Plan。缴付 50 美元手续费，学费每个月扣款而不是一次将一个学期的钱都缴清。详细说明和流程可参考: &lt;a href=&#34;http://sfs.usc.edu/payment/plan/&#34;&gt;http://sfs.usc.edu/payment/plan/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;进阶型2: Prepayment。一次性缴付你在学校所有的学费。考虑到 USC 学费逐年上涨（是不是现在还能搜到网上说一个学分 14xx 刀的帖子？），可以干脆一口气全部交掉以防止未来学分价格上涨。详细说明和流程可以参考：&lt;a href=&#34;http://sfs.usc.edu/payment/plan/&#34;&gt;http://sfs.usc.edu/payment/plan/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;学校提供了 &lt;a href=&#34;http://orientation.usc.edu/wp-content/uploads/2016/05/PayingForUSC_chinese.pdf&#34;&gt;中文版的缴费说明&lt;/a&gt;，我看了下内容应该主要是针对本科生的，但是大体上对研究生也适用，值得仔细阅读。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;进阶型1:&lt;/strong&gt; Payment Plan。缴付 50 美元手续费，学费每个月扣款而不是一次将一个学期的钱都缴清。详细说明和流程可参考: &lt;a href=&#34;http://sfs.usc.edu/payment/plan/&#34;&gt;http://sfs.usc.edu/payment/plan/&lt;/a&gt;
+&lt;strong&gt;进阶型2: &lt;/strong&gt;Prepayment。一次性缴付你在学校所有的学费。考虑到 USC 学费逐年上涨（是不是现在还能搜到网上说一个学分 14xx 刀的帖子？），可以干脆一口气全部交掉以防止未来学分价格上涨。详细说明和流程可以参考：&lt;a href=&#34;http://sfs.usc.edu/payment/plan/&#34;&gt;http://sfs.usc.edu/payment/plan/&lt;/a&gt;
+&lt;strong&gt;延伸阅读：&lt;/strong&gt;学校提供了 &lt;a href=&#34;http://orientation.usc.edu/wp-content/uploads/2016/05/PayingForUSC_chinese.pdf&#34;&gt;中文版的缴费说明&lt;/a&gt;，我看了下内容应该主要是针对本科生的，但是大体上对研究生也适用，值得仔细阅读。&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -364,9 +408,8 @@
 &lt;p&gt;中国驾照可以在加州正常使用。根据 CA Codes 12502 的规定：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;(a) The following persons may &lt;strong&gt;operate a motor vehicle in this state without obtaining a driver&amp;rsquo;s license&lt;/strong&gt; under this code:&lt;/p&gt;
-
-&lt;p&gt;(1) &lt;strong&gt;A nonresident over the age of 18 years&lt;/strong&gt; having in his or her immediate possession &lt;strong&gt;a valid driver&amp;rsquo;s license issued by a foreign jurisdiction&lt;/strong&gt; of which he or she is a resident, except as provided in Section 12505.&lt;/p&gt;
+&lt;p&gt;(a) The following persons may &lt;strong&gt;operate a motor vehicle in this state without obtaining a driver&amp;rsquo;s license&lt;/strong&gt; under this code:
+(1) &lt;strong&gt;A nonresident over the age of 18 years&lt;/strong&gt; having in his or her immediate possession &lt;strong&gt;a valid driver&amp;rsquo;s license issued by a foreign jurisdiction&lt;/strong&gt; of which he or she is a resident, except as provided in Section 12505.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;F1/F2/J1/J2 都是属于 nonresident 范畴，所以如果你有中国驾照，随身带着自己的中国驾照和护照，是可以开车的。但是考虑到现实生活中的不便，还是尽早办理加州驾照吧。&lt;/p&gt;
@@ -429,13 +472,10 @@
 &lt;p&gt;感谢 &lt;strong&gt;Wilson Huang&lt;/strong&gt; 关于 &lt;strong&gt;LLM (Master of Laws)&lt;/strong&gt; 项目的补充：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;2016 Fall资费信息已更新：&lt;a href=&#34;http://classes.usc.edu/term-20163/tuition-and-fees/&#34;&gt;http://classes.usc.edu/term-20163/tuition-and-fees/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;法学院 LLM 占位费500刀；&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;法学院这边发财力证明不需要冻结资金，时点证明即可；&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;NetID LLM 这边收到的回复是 &amp;ldquo;You will not be able to access your USC NetID until the summer when your USC email account has been created.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;2016 Fall资费信息已更新：&lt;a href=&#34;http://classes.usc.edu/term-20163/tuition-and-fees/&#34;&gt;http://classes.usc.edu/term-20163/tuition-and-fees/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;法学院 LLM 占位费500刀；&lt;/li&gt;
+&lt;li&gt;法学院这边发财力证明不需要冻结资金，时点证明即可；&lt;/li&gt;
+&lt;li&gt;NetID LLM 这边收到的回复是 &amp;ldquo;You will not be able to access your USC NetID until the summer when your USC email account has been created.&amp;rdquo;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;5-应该提交什么样的财力文件-资产需要冻结吗&#34;&gt;5. 应该提交什么样的财力文件，资产需要冻结吗？&lt;/h2&gt;
@@ -496,9 +536,8 @@ officer or official.&lt;/li&gt;
 &lt;p&gt;感谢 &lt;strong&gt;Wilson Huang&lt;/strong&gt; 关于法学院 LLM 项目的补充：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;法学院LLM summer课程的费用包含医保，所以读summer的LLM同学可以7月提前去接种疫苗和做TB test。&lt;/p&gt;
-
-&lt;p&gt;询问小米回复如下：
+&lt;p&gt;法学院LLM summer课程的费用包含医保，所以读summer的LLM同学可以7月提前去接种疫苗和做TB test。
+询问小米回复如下：
 Yes, to confirm, you will be covered by the USC Health Center and USC Health insurance during your enrollment in our Summer Law &amp;amp; English Program.
 Therefore, you can complete your immunizations on-campus, upon arrival to USC.&lt;/p&gt;
 &lt;/blockquote&gt;
